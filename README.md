@@ -3,13 +3,13 @@
 </h1>
 
 <h1>
-    <img src="public/images/indexpg.PNG"  width="49%" height"100%">
-    <img src="public/images/create-pointpg.PNG"  width="49%" height"100%">
+    <img src="https://github.com/Yagasakii/nlw-ecoleta/blob/master/public/images/indexpg.png?raw=true"  width="49%" height"100%">
+    <img src="https://raw.githubusercontent.com/Yagasakii/nlw-ecoleta/master/public/images/create-pointpg.png"  width="49%" height"100%">
 </h1>
 
 <h1>
-    <img src="public/images/modalpg.PNG" width="49%" height"100%">
-    <img src="public/images/pontospg.PNG" width="49%" height"100%">
+    <img src="https://github.com/Yagasakii/nlw-ecoleta/blob/master/public/images/modalpg.png" width="49%" height"100%">
+    <img src="https://github.com/Yagasakii/nlw-ecoleta/blob/master/public/images/pontospg.png" width="49%" height"100%">
 </h1>
 
 <h3 align="center">
